@@ -1,0 +1,12 @@
+{
+  "+447911000001": {
+    "name": "Acme Corp",
+    "trelloBoardId": "REPLACE_WITH_TRELLO_BOARD_ID",
+    "clockifyClientId": "REPLACE_WITH_CLOCKIFY_CLIENT_ID"
+  },
+  "+447911000002": {
+    "name": "Beta Ltd",
+    "trelloBoardId": "REPLACE_WITH_TRELLO_BOARD_ID",
+    "clockifyClientId": "REPLACE_WITH_CLOCKIFY_CLIENT_ID"
+  }
+}
