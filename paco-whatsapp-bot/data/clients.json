@@ -1,12 +1,11 @@
 {
-      "+351910049890": {
-              "name": "Eve Humphreys",
-              "trelloBoardId": "jfOrpJWc",
-              "clockifyClientId": "6384cf34bf21f203725fdc8b"
-      },
-      "+351910082623": {
-              "name": "Julia Gensthalar",
-              "trelloBoardId": "VZRK9vXR",
-              "clockifyClientId": "659db42439105b7c5a7a3d7e"
-      }
+  "+351910049890": {
+    "name": "Eve Humphreys",
+    "trelloBoardId": "jfOrpJWc",
+    "clockifyClientId": "6384cf34bf21f203725fdc8b"
+  },
+  "+351910082623": {
+    "name": "Emily Hilton",
+    "trelloBoardId": "3mWvC1WD"
+  }
 }
